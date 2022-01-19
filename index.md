@@ -4,7 +4,7 @@ title: RoboCupシミュレーション日本コミュニティ
 ---
 
 ## 今後のイベント
-- [JapanOpen2022](events/2022/japanopen)
+- [JapanOpen2021](events/2021/japanopen)
 
 ### 開催済み
 
