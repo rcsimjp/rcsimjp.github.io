@@ -8,19 +8,18 @@ title: RoboCupシミュレーション日本コミュニティ
 
 ### 開催済み
 
- 以前のイベント情報は[旧wiki](http://rc-oz.osdn.jp/)を参照してください。
+ 以前のイベント情報は[旧wiki](http://rc-oz.osdn.jp/){:target="_blank"}を参照してください。
 
 ## リーグ
 
-- サッカー2D
-- レスキュー
+- [サッカー2D](https://rcsoccersim.github.io/){:target="_blank"}
+- [レスキューAgent](http://rescuesim.robocup.org/){:target="_blank"}
 
 
 ## コミュニティ
 
 - 情報共有用Slackワークスペース:
 質問などの投稿先としてSlackワークスペースを利用可能です。
-[Slackワークスペースへ参加する](https://join.slack.com/t/simjp/shared_invite/zt-pbswx59u-kOxiZ3qYoQ09JLDxr~PeBQ)
+[Slackワークスペースへ参加する](https://join.slack.com/t/simjp/shared_invite/zt-pbswx59u-kOxiZ3qYoQ09JLDxr~PeBQ){:target="_blank"}
 - メーリングリスト:
-競技，イベントなどのお知らせはメーリングリストでも告知されます。[メー
-リングリストへ参加する](http://lists.sourceforge.jp/mailman/listinfo/rc-oz-simjp)
+競技，イベントなどのお知らせはメーリングリストでも告知されます。[メーリングリストへ参加する](http://lists.sourceforge.jp/mailman/listinfo/rc-oz-simjp){:target="_blank"}
