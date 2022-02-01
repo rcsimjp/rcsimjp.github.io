@@ -60,7 +60,7 @@ categories: event
 
 |Team Code |Team Name |Affiliation |# of Members |Members |Full Registration |
 | :---     | :---     | :---       | :---:       | :---   | :---:            |
-| 0        | test     | test univ. | 0           | unknown|                  |
+| SS2-1    | HTS      | 岡山理科大学  | 1           | 秋山英久 |                  |
 
 
 ### Rescue Agent
