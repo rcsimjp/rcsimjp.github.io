@@ -65,9 +65,10 @@ categories: event
 
 ### Rescue Agent
 
-|Team Code |Team Name |Affiliation |# of Members |Members |Full Registration |
-| :---     | :---     | :---       | :---:       | :---   | :---:            |
-| 0        | test     | test univ. | 0           | unknown|                  |
+|Team Code |Team Name     |Affiliation |# of Members |Members |Full Registration |
+| :---     | :---         | :---       | :---:       | :---   | :---:            |
+| RSA-1    | AIT-Rescue   | 愛知工業大学, 愛知大学| 8           | 鈴木宏哉, 岡戸優樹, 酒井淑成, 長谷川滉, 坂元優介, 森永彩葉, 岩田員典, 伊藤暢浩 | done          |
+| RSA-2    | AIT-Rescue_B | 愛知工業大学          | 8           | 上原温揮, 川上洵恩, 前田綾也, 藤澤丈, 松永一希, 岡本愛, 島田優希, 伊藤暢浩    | done          |
 
 ## 参加チームへの案内
 
