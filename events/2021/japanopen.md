@@ -61,7 +61,7 @@ categories: event
 |Team Code |Team Name |Affiliation |# of Members |Members |Full Registration |
 | :---     | :---     | :---       | :---:       | :---   | :---:            |
 | SS2-1    | HTS      | 岡山理科大学  | 1           | 秋山英久 | done             |
-| SS2-2    | FC-AIT   | 愛知工業大学  | 7           |天野巧巳, 伴昌樹, 小泉響暉, 福田遥生, 河野真空, 久保健太, 伊藤暢浩| |
+| SS2-2    | FC-AIT   | 愛知工業大学  | 7           |天野巧巳, 伴昌樹, 小泉響暉, 福田遥生, 河野真空, 久保健太, 伊藤暢浩| done |
 
 ### Rescue Agent
 
@@ -83,5 +83,5 @@ TBD
   - 秋山英久（岡山理科大学） hidehisa.akiyama あっと じーめいる
   - 中島智晴（大阪府立大学）tomoharu.nakashima あっと kis.osakafu-u.ac.jp
 - レスキューAgent：
-  - 伊藤暢宏（愛知工業大学） n-ito あっと aitech.ac.jp
+  - 伊藤暢浩（愛知工業大学） n-ito あっと aitech.ac.jp
   - 岩田員典（愛知大学）kazunori あっと vega.aichi-u.ac.jp
