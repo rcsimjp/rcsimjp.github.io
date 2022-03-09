@@ -77,11 +77,12 @@ categories: event
 
 ## 参加チームへの案内
 
-TBD
+oViceを利用して開催します．
 
 ## 競技詳細
 
-TBD
+- レスキューAgent
+  https://maslab.aitech.ac.jp/codimd/s/fnmSGMhhJ
 
 
 ## 各リーグ担当者(仮)
