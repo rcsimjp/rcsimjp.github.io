@@ -77,7 +77,7 @@ categories: event
 
 ## 参加チームへの案内
 
-oViceを利用して開催します．
+[oVice](https://rcsimjp.ovice.in/)を利用して開催します．
 
 ## 競技詳細
 
