@@ -65,7 +65,7 @@ categories: event
 | :---     | :---     | :---       | :---:       | :---   | :---:            |
 | SS2-1    | HTS      | 岡山理科大学  | 1           | 秋山英久 | done             |
 | SS2-2    | FC-AIT   | 愛知工業大学  | 7           |天野巧巳, 伴昌樹, 小泉響暉, 福田遥生, 河野真空, 久保健太, 伊藤暢浩| done |
-| SS2-3    | opuHam2021 | 大阪府立大学  | 5         |畠山響, 福島卓弥, 藤川 拓海, 楠木 祥文, 中島 智晴 | |
+| SS2-3    | opuHam2021 | 大阪府立大学  | 5         |畠山響, 福島卓弥, 藤川 拓海, 楠木 祥文, 中島 智晴 | done |
 
 ### Rescue Agent
 
@@ -81,6 +81,7 @@ categories: event
 
 ## 競技詳細
 
+- サッカー2D [Information Board](https://docs.google.com/document/d/1n1RKTcBZ0lkC5MCSJuDXnor-wrKIt9txk6tqwU073ZU/edit?usp=sharing){:target="_blank"}
 - レスキューAgent
   https://maslab.aitech.ac.jp/codimd/s/fnmSGMhhJ
 
