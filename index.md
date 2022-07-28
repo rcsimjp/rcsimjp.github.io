@@ -4,9 +4,12 @@ title: RoboCupシミュレーション日本コミュニティ
 ---
 
 ## 今後のイベント
-- [JapanOpen2021](events/2021/japanopen)
+- 2022年12月3日〜4日 [秋キャンプ2022](events/2022/camp){:target="_blank"}
+- 2022年12月3日〜 [JapanOpen2022](events/2022/japanopen){:target="_blank"}
+
 
 ### 開催済み
+- [JapanOpen2021](events/2021/japanopen)
 
  以前のイベント情報は[旧wiki](http://rc-oz.osdn.jp/){:target="_blank"}を参照してください。
 
