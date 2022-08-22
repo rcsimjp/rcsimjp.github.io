@@ -10,6 +10,7 @@ categories: event
 ## 会場
 
 [JapanOpen2022](japanopen)と並行したハイブリッド開催を予定しています．
+オンラインでも参加可能です．
 詳細は後日掲載予定．
 
 ## スケジュール
@@ -30,4 +31,7 @@ categories: event
 
 ## 参加登録
 
-TBA
+[参加申し込みフォーム](https://forms.gle/jmUXtJ7YU3NRM3rj6)からお申し
+込みください．
+
+JapanOpen2022へ参加登録済みであれば，キャンプへの参加申し込みは不要です．
