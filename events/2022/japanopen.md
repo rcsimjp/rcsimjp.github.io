@@ -12,9 +12,11 @@ categories: event
 
 - 大会名称：ロボカップジャパンオープン2022
 - 主催：特定非営利活動法人ロボカップ日本委員会
-- 大会ホームページ: TBA
+- 大会ホームページ: [https://www.robocup.or.jp/japanopen2022/](https://www.robocup.or.jp/japanopen2022/){:target="_blank"}
 
 ## 会場
+
+大阪公立大学
 
 [キャンプ](camp)と並行したハイブリッド開催を予定しています．
 詳細は後日掲載予定．
