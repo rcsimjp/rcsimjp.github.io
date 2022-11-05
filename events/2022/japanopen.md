@@ -64,7 +64,21 @@ categories: event
 
 ## 参加チームリスト
 
-TBA
+### サッカー2D
+
+|Team Code |Team Name |Affiliation |# of Members |Members |Full Registration |
+| :---     | :---     | :---       | :---:       | :---   | :---:            |
+| SS2-1    | FC-AIT   | 愛知工業大学   | 7           |伴昌樹, 天野巧巳, 福田遥生, 小泉響暉, 河上琢磨, 芦塚亮, 伊藤暢浩|  |
+| SS2-2    | opuHam2022 | 大阪公立大学 | 3           |畠山響, 日紫喜暁維, 中島智晴| |
+| SS2-3    | HTS      | 岡山理科大学   | 1           |秋山英久| |
+
+### レスキューAgent
+
+|Team Code |Team Name |Affiliation |# of Members |Members |Full Registration |
+| :---     | :---     | :---       | :---:       | :---   | :---:            |
+|          | Ri-one   | 立命館大学    | 7           |池上拓都, 加藤駿一, 矢野晃祐, 野本晴登, 澤井祐人, 永水良樹, 野見山真|  |
+|          | AIT-Rescue | 愛知工業大学,愛知大学 | 8    |上原温揮, 鈴木宏哉, 前田綾也, 松永一希, 藤澤丈, 島田優希, 岩田員典, 伊藤暢浩| |
+|          | AIT-Rescue_B | 愛知工業大学,愛知大学  | 10      |岡本愛, 伊藤海翔, 川村龍羽, 笹田敬太郎, 杉坂侑哉, 鈴木涼介, 高村隼平, 林渓太, 岩田員典, 伊藤暢浩| |
 
 ## 競技詳細
 
