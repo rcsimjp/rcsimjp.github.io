@@ -16,7 +16,7 @@ categories: event
 
 ## 会場
 
-大阪公立大学
+大阪公立大学 中百舌鳥キャンパス
 
 [キャンプ](camp)と並行したハイブリッド開催を予定しています．
 詳細は後日掲載予定．
@@ -92,4 +92,10 @@ categories: event
 
 ## 競技詳細
 
-TBA
+- サッカーシミュレーション2D
+
+  TBD
+
+- レスキューシミュレーションAgent
+
+  [競技詳細ページ](https://maslab.aitech.ac.jp/codimd/s/NKwdeKyjS){:target="_blank"}
