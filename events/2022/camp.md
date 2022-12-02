@@ -9,7 +9,17 @@ categories: event
 
 ## 会場
 
-大阪公立大学 中百舌鳥キャンパス
+大阪公立大学 [中百舌鳥キャンパス](https://www.osakafu-u.ac.jp/info/campus/nakamozu/){:target="_blank"} B4棟（4階）
+- サッカー: E402号室
+- レスキュー: W401号室
+
+### B4棟について
+
+[地図](https://github.com/rcsimjp/rcsimjp.github.io/blob/master/events/2022/B4%E6%A3%9F%E9%80%B2%E5%85%A5%E7%B5%8C%E8%B7%AF.png){:target="_blank"}を参考にしてください．
+
+- 青いΔが入口，中央の青い入口がオススメ
+- 赤い☆がエレベータ，赤い□が階段， 赤い☆のエレベータから4階にあがるのが良い
+- 当日は日本語のリスニング試験があるため静かに移動すること
 
 [JapanOpen2022](japanopen)と並行したハイブリッド開催を予定しています．
 オンラインでも参加可能です．
