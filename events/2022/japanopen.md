@@ -20,6 +20,9 @@ categories: event
 - サッカー: E402号室
 - レスキュー: W401号室
 
+B4棟について
+[地図](https://github.com/rcsimjp/rcsimjp.github.io/blob/master/events/2022/B4%E6%A3%9F%E9%80%B2%E5%85%A5%E7%B5%8C%E8%B7%AF.png){:target="_blank"}を参考にしてください．
+
 [キャンプ](camp)と並行したハイブリッド開催を予定しています．
 
 キャンプについても各リーグ，上記の教室で開催の予定です．
