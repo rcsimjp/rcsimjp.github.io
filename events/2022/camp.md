@@ -13,6 +13,8 @@ categories: event
 - サッカー: W401号室
 - レスキュー: E402号室
 
+見学を希望されている方には，個別にメールをさせていただいております．そこに返信をいただけましたら幸いです．
+
 ### B4棟について
 
 [地図](https://github.com/rcsimjp/rcsimjp.github.io/blob/master/events/2022/B4%E6%A3%9F%E9%80%B2%E5%85%A5%E7%B5%8C%E8%B7%AF.png){:target="_blank"}を参考にしてください．
