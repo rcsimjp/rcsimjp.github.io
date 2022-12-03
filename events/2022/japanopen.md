@@ -17,8 +17,8 @@ categories: event
 ## 会場
 
 大阪公立大学 [中百舌鳥キャンパス](https://www.osakafu-u.ac.jp/info/campus/nakamozu/){:target="_blank"} B4棟（4階）
-- サッカー: E402号室
-- レスキュー: W401号室
+- サッカー: W401号室
+- レスキュー: E402号室
 
 ### B4棟について
 
