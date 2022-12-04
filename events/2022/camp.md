@@ -64,6 +64,12 @@ categories: event
 - サッカーシミュレーション2D
 - レスキューシミュレーションAgent
 
+
+### サッカー2Dチュートリアル ライブ配信
+
+- Part1 シミュレーション環境構築 [https://youtu.be/EFKKjDFUI_A](https://youtu.be/EFKKjDFUI_A)
+- Part2 チーム開発環境構築 [https://youtu.be/RiO-Z-aOwlY](https://youtu.be/RiO-Z-aOwlY)
+
 ## 参加費
 
 無料
