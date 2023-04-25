@@ -49,6 +49,25 @@ https://www.robocup.or.jp/japanopen2023/
 
 
 ## 参加チームリスト
+### サッカー2D
+
+|Team Code |Team Name |Affiliation |# of Members |Members |Full Registration |
+| :---     | :---     | :---       | :---:       | :---   | :---:            |
+| SS2-1    | FC-AIT   | 愛知工業大学   | 2           |伴昌樹, 福田遥生|デモ参加|
+
+### レスキューAgent
+
+|Team Code |Team Name |Affiliation |# of Members |Members |Full Registration |
+| :---     | :---     | :---       | :---:       | :---   | :---:            |
+| RSA-1    | AIT-Rescue | 愛知工業大学,愛知大学 | 7    |藤澤丈, 鈴木宏哉, 上原温揮, 前田綾也, 松永一希, 岩田員典, 伊藤暢浩| ○ |
+| RSA-2    | AIT-Rescue_B | 愛知工業大学  | 3      |鈴木涼介, 島田優希, 伊藤暢浩| ○ |
+| RSA-3    | Ri-one   | 立命館大学    | 3           |池上 拓都, 野本 晴登, 澤井 祐人| ○ |
+| RSA-4    | TK23   | 筑波大学    | 1           |鷹見竣希| ○ |
 
 
 ## 競技詳細
+### サッカー2D
+デモ競技
+
+### レスキュー
+TBA
