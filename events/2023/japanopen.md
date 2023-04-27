@@ -70,4 +70,4 @@ https://www.robocup.or.jp/japanopen2023/
 デモ競技
 
 ### レスキュー
-https://maslab.aitech.ac.jp/codimd/s/HU8uSTzmL
+[https://maslab.aitech.ac.jp/codimd/s/HU8uSTzmL](https://maslab.aitech.ac.jp/codimd/s/HU8uSTzmL){:target="_blank"}
