@@ -53,7 +53,7 @@ https://www.robocup.or.jp/japanopen2023/
 
 |Team Code |Team Name |Affiliation |# of Members |Members |Full Registration |
 | :---     | :---     | :---       | :---:       | :---   | :---:            |
-| SS2-1    | FC-AIT   | 愛知工業大学   | 2           |伴昌樹, 福田遥生|デモ参加|
+| SS2-1    | FC-AIT   | 愛知工業大学   | 2           |伴昌樹, 福田遥生, 伊藤暢浩|デモ参加|
 
 ### レスキューAgent
 
