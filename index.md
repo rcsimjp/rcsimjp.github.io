@@ -4,11 +4,11 @@ title: RoboCupシミュレーション日本コミュニティ
 ---
 
 ## 今後のイベント
-- 2023年5月4-7日 [JapanOpen2023](events/2023/japanopen)
+- 2023年11月4-5日 [秋キャンプ2023](events/2023/camp)
 
 ### 開催済み
-- 2022年12月3日〜4日 [秋キャンプ
-  2022](events/2022/camp){:target="_blank"} (ハイブリッド開催)
+- 2023年5月4-7日 [JapanOpen2023](events/2023/japanopen)
+- 2022年12月3日〜4日 [秋キャンプ2022](events/2022/camp){:target="_blank"} (ハイブリッド開催)
 - 2022年12月3日〜
   [JapanOpen2022](events/2022/japanopen){:target="_blank"}  (ハイブリッド開催)
 - [JapanOpen2021](events/2021/japanopen)
