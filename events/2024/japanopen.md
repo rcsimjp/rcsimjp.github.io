@@ -51,7 +51,10 @@ https://www.robocup.or.jp/japanopen2024/registration.html
 
 |Team Code |Team Name |Affiliation |# of Members |Members |Full Registration |
 | :---     | :---     | :---       | :---:       | :---   | :---:            |
-
+| RSA-1    | Ri-one    | 立命館大学　　　　　　| 1           |池上 拓都| ○ |
+| RSA-2    | TK24     | 産業技術総合研究所 | 1      |鷹見竣希| ○ |
+| RSA-3    | AIT-Rescue | 愛知工業大学，愛知大学 | 7 | 鈴木涼介, 安藤圭祐, 上原温揮, 鈴木涼介, 島田優希, 岩田員典, 伊藤暢浩 | ○ |
+| RSA-4    | AIT-Rescue_B | 愛知工業大学 | 4 | 山本竜甲, 藤井駿太郎, 加藤幸太, 伊藤暢浩 | ○ |
 
 ## 競技詳細
 
