@@ -59,4 +59,4 @@ https://www.robocup.or.jp/japanopen2024/registration.html
 ## 競技詳細
 
 ### レスキュー
-準備中
+https://maslab.aitech.ac.jp/codimd/s/RCtrKajJ-
