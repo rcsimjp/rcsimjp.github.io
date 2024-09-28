@@ -1,3 +1,4 @@
+---
 layout: default
 title: Camp2024
 categories: event
