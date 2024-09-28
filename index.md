@@ -4,15 +4,17 @@ title: RoboCupシミュレーション日本コミュニティ
 ---
 
 ## 今後のイベント
-- 2024年4月27-29日 [JapanOpen2024](events/2024/japanopen)
+- 2024年11月30日〜12月1日 [秋キャンプ2024](events/2024/camp){:target="_blank"}
 
 ### 開催済み
-- 2023年5月4-7日 [JapanOpen2023](events/2023/japanopen)
-- 2023年5月4-7日 [JapanOpen2023](events/2023/japanopen)
+- 2024年4月27-29日 [JapanOpen2024](events/2024/japanopen){:target="_blank"}
+- 2023年11月4日〜5日 [秋キャンプ2023](events/2023/camp){:target="_blank"}
+- 2023年5月4-7日 [JapanOpen2023](events/2023/japanopen){:target="_blank"}
+- 2023年5月4-7日 [JapanOpen2023](events/2023/japanopen){:target="_blank"}
 - 2022年12月3日〜4日 [秋キャンプ2022](events/2022/camp){:target="_blank"} (ハイブリッド開催)
 - 2022年12月3日〜
   [JapanOpen2022](events/2022/japanopen){:target="_blank"}  (ハイブリッド開催)
-- [JapanOpen2021](events/2021/japanopen)
+- [JapanOpen2021](events/2021/japanopen){:target="_blank"}
 
  以前のイベント情報は[旧wiki](http://rc-oz.osdn.jp/){:target="_blank"}を参照してください。
 
