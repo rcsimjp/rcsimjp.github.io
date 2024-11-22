@@ -28,6 +28,8 @@ categories: event
 既知のチームで新規試合を行い，その途中状態に対して選手やボールの動きを予測し，その精度を競う競技を行います．ルール詳細は後日掲載します．データセットは[こちら](https://github.com/hidehisaakiyama/RoboCup2D-data)．
 
 - レスキューシミュレーションAgent
+  - ADF-Pythonによるエージェント開発・開発者向け新ビューワ体験
+Pythonを用いたエージェント開発の紹介に加え，実際にPythonを使った開発体験をしていただけます．また，開発者向けの新しいログビューワもお試しいただけます．いずれの講習も，初学者や入門者の方でも問題なくご参加いただける内容となっています．詳細については[こちら](https://maslab.aitech.ac.jp/codimd/s/savU62PJh)をご参照ください．
 
 - [第50回人工知能学会「社会におけるAI研究会」](https://sites.google.com/site/jsaisigsai/%E7%A0%94%E7%A9%B6%E4%BC%9A%E6%B4%BB%E5%8B%95/meeting-2024-11)が併催されます．
 
