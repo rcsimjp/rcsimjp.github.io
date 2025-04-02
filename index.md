@@ -4,7 +4,7 @@ title: RoboCupシミュレーション日本コミュニティ
 ---
 
 ## 今後のイベント
-- 2025年5月2日〜5月5日 [JapanOpen2025](events/2025/japanopen){:target="_blank"}
+- 2025年5月2日〜5月5日 [JapanOpen2025](events/2025%20/japanopen){:target="_blank"}
 
 ### 開催済み
 - 2024年11月30日〜12月1日 [秋キャンプ2024](events/2024/camp){:target="_blank"}
