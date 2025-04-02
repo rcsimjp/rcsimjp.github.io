@@ -51,10 +51,10 @@ https://www.robocup.or.jp/japanopen2025/registration.html (準備中？)
 
 |Team Code |Team Name |Affiliation |# of Members |Members |Full Registration |
 | :---     | :---     | :---       | :---:       | :---   | :---:            |
-| RSA-1    |AIT-Rescue|愛知工業大学 & 愛知大学 |||
-| RSA-2    |AIT-Rescue_B|愛知工業大学|||
-| RSA-3    |Ri-one|立命館大学|||
-| RSA-4    |TKG | 産業技術総合研究所|||
+| RSA-1    | AIT-Rescue | 愛知工業大学 & 愛知大学 | | | |
+| RSA-2    | AIT-Rescue_B | 愛知工業大学 | | | |
+| RSA-3    | Ri-one | 立命館大学 | | | |
+| RSA-4    | TKG | 産業技術総合研究所 | | | |
 ## 競技詳細
 
 ### レスキュー
