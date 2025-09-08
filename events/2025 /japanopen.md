@@ -36,7 +36,7 @@ categories: event
 ## 参加登録
 
 大会ホームページからお申し込みください。
-https://www.robocup.or.jp/japanopen2025/registration.html (準備中？)
+https://www.robocup.or.jp/japanopen2025/registration.html
 
 ### 参加費
 
@@ -56,8 +56,3 @@ https://www.robocup.or.jp/japanopen2025/registration.html (準備中？)
 | RSA-3    | Ri-one | 立命館大学 | 2 | 池上拓都, 吉原崇平 | ○ |
 | RSA-4    | TKG | 産業技術総合研究所 | 2 | 鷹見竣希, 重中秀介 | ○ |
 
-## 競技詳細
-
-### レスキュー
-
-- 準備中
