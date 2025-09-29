@@ -8,7 +8,7 @@ categories: event
 
 ## 会場
 
-愛知大学　名古屋キャンパス
+愛知大学　名古屋キャンパス 講義棟 5階 L503・L504
 
 - [交通アクセス](https://www.aichi-u.ac.jp/guide/access#b-407288){:target="_blank"}
 
