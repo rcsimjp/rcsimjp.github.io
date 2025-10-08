@@ -36,5 +36,5 @@ categories: event
 
 ## 参加登録
 
-[参加申し込みフォーム] 準備中
+[参加申し込みフォーム](https://forms.gle/rdDELhXqPZAaMhNB8)
 研究会へ参加する場合は，研究会のWebページから別途申込みを行ってください．
