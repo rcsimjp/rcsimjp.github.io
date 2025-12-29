@@ -3,3 +3,7 @@ theme: minima
 show_downloads: false
 github:
   is_project_page: false
+header_pages:
+  - japanopen.md
+  - camp.md
+  - other-events.md
