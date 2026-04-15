@@ -51,9 +51,9 @@ https://www.robocup.or.jp/japanopen2026/registration.html
 
 |Team Code |Team Name |Affiliation |# of Members |Members |Full Registration |
 | :---     | :---     | :---       | :---:       | :---   | :---:            |
-| RSA-1    | AIT-Rescue | 愛知工業大学 & 愛知大学 | 6 | 藤井駿太郎, 鈴木涼介, 島田優希, 山本⻯甲, 岩田員典, 伊藤暢浩 | ○ |
-| RSA-2    | AIT-Rescue_B | 愛知工業大学 | 5 | 新見舜也, 水野智貴, 柴田悠仁, 冨岡千遥, 伊藤暢浩 | ○ |
-| RSA-3    | Ri-one | 立命館大学 | 2 | 池上拓都, 吉原崇平 | ○ |
+| RSA-1    | AIT-Rescue | 愛知工業大学 & 愛知大学 | 6 | 島田優希, 藤井駿太郎, 剣持和貴, 新見舜也, 岩田員典, 伊藤暢浩 | ○ |
+| RSA-2    | AIT-Rescue_B | 愛知工業大学 | 2 | 平野柚葉, 伊藤暢浩 | ○ |
+| RSA-3    | Ri-one | 立命館大学 | 1 | 池上拓都 | ○ |
 | RSA-4    | Timrad | Iran | 2 |  |  |
 | RSA-5    | ando-rescue | 岩手県立大学 | 1 | 安藤圭祐 | ○ |
 | RSA-6    | TKG | 産業技術総合研究所 & 専修大学 | 2 | 鷹見竣希, 重中秀介 | ○ |
