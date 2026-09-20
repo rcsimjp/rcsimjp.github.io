@@ -40,6 +40,6 @@ categories: event
 
 ## 参加登録
 
-[参加申し込みフォーム]
+秋キャンプ[参加申し込みフォーム](https://forms.gle/gggVxdm2TJ5ESmQPA){:target="_blank"}
 
-研究会へ参加する場合は，研究会のWebページから別途申込みを行ってください．
+研究会へ参加する場合は，[研究会のWebページ](https://sites.google.com/view/jsaisigdocsai/%E7%A0%94%E7%A9%B6%E4%BC%9A%E6%B4%BB%E5%8B%95/meeting-2026-10){:target="_blank"}から別途申込みを行ってください．
